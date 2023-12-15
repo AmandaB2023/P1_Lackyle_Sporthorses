@@ -196,6 +196,18 @@ footer {
         padding-top: 2px;
     }
 
+    /* Main content */
+    main {
+        /* This will push main content down to allow for a larger header on larger screens */
+        margin-top: 79px;
+    }
+
+    /* Hero image */
+    #cover-text {
+        width: 300px;
+        right: 50px;
+    }
+
     /* Media Query: Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
 
