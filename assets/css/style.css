@@ -99,11 +99,13 @@ nav {
 
 /*Main*/
 main {
-    background-color: blueviolet;
+    background-color: #ffffff;
     /* Enlarged main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
     margin-top: 85px;
+    /* Enables flex properties for child elements */
+    display: flex;
     flex-direction: column;
 }
 
@@ -135,6 +137,66 @@ main {
 #cover-text>h3 {
     color: #112233;
 }
+
+/*Contact Page*/
+/*Contact Us Form*/
+#contact {
+    background-image: url("../images/lackyle_contact.webp");
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    background-position: 20%;
+    padding: 20px 20% 0 10%;
+    flex-grow: 1;
+}
+
+/*Contact form text and backround color*/
+.contact-form {
+    color: #ffffff;
+    background-color: rgba(17, 35, 63, 0.7);
+    padding: 10px;
+}
+
+/*Targets the h2 elements on the contact form*/
+.contact-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+/*Contact form text imput boxes*/
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+/*Contact form number imput boxes*/
+.number-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+/*Contact form submit button*/
+.contact-button {
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 100%;
+    background-color: #112233;
+    color: #fafafa;
+}
+
 
 /*Footer*/
 footer {
@@ -203,9 +265,39 @@ footer {
     }
 
     /* Hero image */
-    #cover-text {
+    .cover-text {
         width: 300px;
         right: 50px;
+    }
+
+    /* Contact Us Form */
+    .contact_us {
+        background-position: center;
+        position: relative;
+    }
+
+    .contact-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+
+    /*Text imput boxcolor on hover*/
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    /*Number imput box color on hover*/
+    .number-input:hover {
+        border-color: #f16c6b;
+    }
+
+    /*Contact button color on hover*/
+    .contact-button:hover {
+        background-color: #c7d0d9;
+        color: #112233;
+
     }
 
     /* Media Query: Large devices (laptops and desktops, 992px and up) */
