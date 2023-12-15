@@ -49,6 +49,21 @@ header a {
 
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu li {
+    margin-bottom: 1em;
+}
+
+/*This shows a line under the title of the page which is currently active*/
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /*Main*/
 main {
     background-color: blueviolet;
