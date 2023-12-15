@@ -34,6 +34,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header a {
@@ -100,12 +103,30 @@ main {
     /* Enlarged main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 90px;
+    margin-top: 85px;
 }
 
 /*Footer*/
 footer {
-    background-color: blue;
+    background-color: #112233;
+}
+
+/*Footer Social Media Icons*/
+/* Social Network icon formatting */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    /*Displays icons in a line*/
+    list-style-type: none;
+}
+
+/*Targets Social media icons*/
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
 }
 
 /* Media query: tablets and larger (768px and up) */
