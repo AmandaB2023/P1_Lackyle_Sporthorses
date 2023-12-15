@@ -137,4 +137,11 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /*Logo will display bigger on larger screen size*/
+    .logo {
+        width: 140px;
+        height: 100px;
+        padding-top: 2px;
+    }
 }
