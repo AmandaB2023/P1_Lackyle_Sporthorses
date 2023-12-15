@@ -122,4 +122,19 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
+
+    /* Navigation Menu items will in a row on larger screens*/
+    #menu {
+        display: flex;
+    }
+
+    /*To space menu items out*/
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    /*X hidden on larger screens*/
+    .nav-toggle-label {
+        display: none;
+    }
 }
