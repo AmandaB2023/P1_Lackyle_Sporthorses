@@ -144,4 +144,13 @@ footer {
         height: 100px;
         padding-top: 2px;
     }
+
+    /* Media Query: Large devices (laptops and desktops, 992px and up) */
+    @media screen and (min-width: 992px) {
+
+        /*On hover line will appear under test to indicate it is clickable*/
+        #menu a:hover {
+            border-bottom: 1px solid #3a3a3a;
+        }
+    }
 }
