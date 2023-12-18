@@ -54,4 +54,65 @@ I created wireframes to visualize my ideas using Balsamiq. As I want to stick to
 ## Site Structure
 The website is comprised of five pages, three of which are accessible from the navigation menu (home page, for sale page & contact us page). The fourth page is a thank you page which is shown once a user submits the contact form on the contact page and the fifth page is a 404 page which will be shown if the user encounters an error on the site.
 
+All pages will have:
+
+* A responsive navigation bar. Which when viewed on larger screen sizes such as a laptop or desktop, will be at the top right side of the header. This allows the user to navigate through the site via page links to the home, for sale, and contact pages.
+
+* On the left side of the header opposite the navigation elements, we have a logo for Lackyle Sporthorses which also acts as a link to the home page.
+
+* On smaller screen sizes such as mobile phones or tablets to allow for a good user experience of the site, the Lackyle Sporthorses navigation menu text is hidden with a media query to prevent the navigation bar from being cluttered. 
+
+* When viewing the site with mobile devices and/or tablets the navigation links change to a toggle menu with the use of a burger icon. This was implemented to give the site a clean and non-cluttered appearance, as well as providing a good user experience. Given that most users would already be familiar with seeing and using the burger icon when navigating websites on mobile and other smaller-screen devices.
+
+* A footer that contains links and icons for the four main social media platforms namely Facebook, Instagram, Twitter and YouTube. 
+
+* A location icon to show Lackyle Stables address, a phone icon to indicate Lackyle Stables phone number and an envelope icon that takes the user to the contact page. Icons were used to keep the footer clean because they are universally recognisable.
+
+* A map image was also included to point users to Lackyle Stables location this image is static at the moment but it is intended to activate it going forward.
+
+## Features
+
+### Header
+
+The header which includes a navigation menu is fixed to improve user experience. This way the user can easily navigate the website and click on another page from anywhere on the site. 
+
+*   Positioned at the top of the page.
+*   Contains the business logo on the left side.
+*   Contains navigation menu links on the right side
+
+### Navigation Menu
+
+*   As part of my mobile-first approach, I followed the Code Institute Love Running tutorial on how to implement a hamburger menu without JavaScript. I used the example code provided in the Love Running project for my navigation.
+
+*   Navigation Links 
+
+    *   HOME – directs the user to the home page where users can learn about the business Lackyle Sporthorses.
+
+    *   FOR SALE – leads to a page where users can see horses available for sale at Lackyle Sporthorses.
+
+    *   CONTACT US – directs the user to the contact form where they can get in touch with Lackyle Stables.
+
+*   The links have an animated hover effect and an underline on the active page.
+
+*   The navigation is clear and easy for the user to understand and navigate.
+
+![navigation](documentation/site_header.webp)
+
+*   The navigation bar is responsive:
+    *   On tablets and mobile devices: the navigation bar has the business logo on the left side and a toggle menu activated by a burger icon on the right side.
+
+![navigation_tablet](documentation/site_header_tablet.webp)
+
+![navigation_mobile](documentation/site_header_mobile.webp)
+
+*   When the hamburger menu is clicked, a dropdown menu appears with links in the same order as displayed on larger screen sizes.
+
+*   The links have an underlined effect on the active page.
+
+![navigation_tablet_toggle](documentation/navigation_tablet_toggle.webp
+)
+![navigation_mobile_toggle](documentation/navigation_mobile_toggle.webp)
+
+
+
 
