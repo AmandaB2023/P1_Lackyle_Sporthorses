@@ -111,8 +111,27 @@ The header which includes a navigation menu is fixed to improve user experience.
 
 ![navigation_tablet_toggle](documentation/navigation_tablet_toggle.webp
 )
+
 ![navigation_mobile_toggle](documentation/navigation_mobile_toggle.webp)
 
+### Home Page
+
+*   Represents the main information about Lackyle Stables and the services they provide.
+
+#### Hero Section
+*   Below my navigation, I have a hero image. On the Home page, the hero is bigger than on the other pages. I added an overlay text box on top of the hero image to make sure that the text is readable.
+
+![hero]
+
+#### Main Section
+*   Below the hero image is the main body section which:
+
+    *   Contains an About Us section which provides information about Lackyle Sporthorses.
+    *   An Our Services section that provides a list of services that Lackyle Sporthorses offer.
+    The Our Services section also contains a background image.
+
+![]
+#### Footer
 
 
 
