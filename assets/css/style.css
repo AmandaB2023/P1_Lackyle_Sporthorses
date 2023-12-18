@@ -28,7 +28,7 @@ h1 {
 
 /*Header*/
 header {
-    background-color: white;
+    background-color: #ffffff;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -99,7 +99,7 @@ nav {
 
 /*Main*/
 main {
-    background-color: #ffffff;
+    background-color: #112233;
     /* Enlarged main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
@@ -136,6 +136,24 @@ main {
 #cover-text>h2,
 #cover-text>h3 {
     color: #112233;
+}
+
+/*About Us section*/
+/*About Us heading*/
+#about-us h2 {
+    text-align: center;
+    padding-top: 15px;
+    color: #ffffff;
+}
+
+/*About Us text paragraph*/
+#about-us>p {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 20px;
+    color: #ffffff;
 }
 
 /*Contact Page*/
