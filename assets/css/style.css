@@ -474,8 +474,8 @@ h5 {
 
     /*Logo will display bigger on larger screen size*/
     .logo {
-        width: 140px;
-        height: 100px;
+        width: 120px;
+        height: 80px;
         padding-top: 2px;
     }
 
