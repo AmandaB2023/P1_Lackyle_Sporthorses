@@ -201,53 +201,7 @@ main {
 
 }
 
-/* Location section */
-#location {
-    /* Handles responsivity without the need for a media query */
-    display: flex;
-    flex-wrap: wrap;
 
-}
-
-/* Location section */
-#location {
-    /* Handles responsivity without the need for a media query */
-    display: flex;
-    flex-wrap: wrap;
-}
-
-#location div {
-    color: #fafafa;
-    background-color: rgba(17, 34, 51);
-    padding: 15px;
-    text-align: left;
-    /* This will not wrap on screens of less than 400px wide.
-    Each div will expand to fill the available space on its row */
-    flex-basis: 200px;
-    flex-grow: 1;
-    /* Creates a grid of meetup time dives over the background image */
-
-}
-
-#location h3,
-h5 {
-    /* Override the heading colour set in general styles */
-    color: #fafafa;
-    padding: 5px;
-    line-height: 1.3;
-}
-
-#location p {
-    font-size: 12px;
-    padding-left: 10px;
-    line-height: 1.3;
-}
-
-/*Footer Contact Us map*/
-.logo-map {
-    width: 150px;
-
-}
 
 /*Contact Page*/
 /*Contact Us Form*/
@@ -314,8 +268,56 @@ footer {
     background-color: #112233;
 }
 
+/* Location section */
+#location {
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+/* Location section */
+#location {
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#location div {
+    color: #fafafa;
+    background-color: rgba(17, 34, 51);
+    padding: 15px;
+    text-align: left;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of meetup time dives over the background image */
+
+}
+
+#location h3,
+h5 {
+    /* Override the heading colour set in general styles */
+    color: #fafafa;
+    padding: 5px;
+    line-height: 1.3;
+}
+
+#location p {
+    font-size: 12px;
+    padding-left: 10px;
+    line-height: 1.3;
+}
+
+/*Footer Contact Us map*/
+.logo-map {
+    width: 150px;
+
+}
+
 /*Footer Social Media Icons*/
-/* Social Network icon formatting */
+/*Targets Social media icons*/
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -325,11 +327,36 @@ footer {
     list-style-type: none;
 }
 
-/*Targets Social media icons*/
 #social-networks i {
-    font-size: 160%;
-    padding: 5%;
+    font-size: 180%;
     color: #ffffff;
+    border-radius: 24px;
+    padding: 5px;
+    box-shadow: 0px 3px 4px rgba(239, 239, 240, 0.8);
+}
+
+.facebook:hover {
+    background-color: #4267B2;
+    border-radius: 22px;
+    transform: translateY(-20px);
+}
+
+.twitter:hover {
+    background-color: #1DA1F2;
+    border-radius: 22px;
+    transform: translateY(-20px);
+}
+
+.youtube:hover {
+    background-color: #FF0000;
+    border-radius: 22px;
+    transform: translateY(-20px);
+}
+
+.instagram:hover {
+    background-color: #E1306C;
+    border-radius: 22px;
+    transform: translateY(-20px);
 }
 
 /* Media query: tablets and larger (768px and up) */
