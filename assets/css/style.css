@@ -307,7 +307,6 @@ main {
     color: #ffffff;
     background-color: rgba(17, 35, 63, 0.9);
     padding: 5px;
-
 }
 
 /*Targets the h2 elements on the contact form*/
@@ -437,7 +436,7 @@ h5 {
 
 /*Footer Contact Us map*/
 .logo-map {
-    width: 150px;
+    width: 200px;
 
 }
 
