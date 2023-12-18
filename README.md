@@ -12,6 +12,22 @@ Link to live site:
 
 ## User Experience
 
+### Site Owner Goals
+*   To be able to view the site on a range of device sizes.
+
+*   For users to easily navigate the site.
+
+*   To make it easy for each visitor and/or potential customer to ascertain what services Lackyle Stables offer.
+
+*   To make it easy for potential customers to find out what horses Lackyle Stables have available for sale.
+
+*   To allow users to obtain an accurate description of each horse for sale through a variety of media namely text, photo and video.
+
+*   To make it easy for an end user to contact Lackyle Stables either by way of the contact form, the Phone number, email or postal address located in the footer.
+
+*   To allow users to identify the location of Lackyle Stables via  the postal address in the footer and also by viewing the google-map image.
+
+
 ### First Time Visitor Goals
 
 •   As a user, I want to be able to navigate the website using a variety of devices.
