@@ -345,6 +345,25 @@ main {
     color: #fafafa;
 }
 
+/*Thank You Page for Contact Form*/
+/*Contact form text and backround color*/
+.thank_you_form {
+    color: #ffffff;
+    background-color: rgba(17, 35, 63, 0.7);
+    padding: 10px;
+}
+
+/*Targets the h1 and h2 elements on the thank you form*/
+.thank_you_form>h1,
+h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.thank_you_form h3 {
+    color: #c7d0d9;
+    margin-bottom: 20px;
+}
 
 /*Footer*/
 footer {
