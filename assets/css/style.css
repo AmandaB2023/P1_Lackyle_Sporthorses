@@ -188,7 +188,6 @@ main {
     /* Override the heading colour set in general styles */
     color: #fafafa;
     line-height: 1.3;
-    text-decoration: underline;
     margin-bottom: 15px;
 
 }
