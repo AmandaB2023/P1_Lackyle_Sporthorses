@@ -298,15 +298,16 @@ main {
     height: 600px;
     width: 100%;
     background-position: 50%;
-    padding: 20px 20% 0 10%;
-    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /*Contact form text and backround color*/
 .contact-form {
     color: #ffffff;
     background-color: rgba(17, 35, 63, 0.9);
-    padding: 5px;
+    padding: 25px;
 }
 
 /*Targets the h2 elements on the contact form*/
@@ -333,6 +334,7 @@ textarea {
     border: 2px solid #fafafa;
     border-radius: 2px;
     padding: 0 5px;
+    resize: vertical;
 }
 
 /*Contact form number imput boxes*/
@@ -541,7 +543,6 @@ h5 {
     .contact-form {
         max-width: 400px;
         position: absolute;
-        left: 10%;
         top: 150px;
     }
 
