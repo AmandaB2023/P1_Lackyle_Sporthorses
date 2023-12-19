@@ -209,7 +209,7 @@ main {
 }
 
 /* will apply styling to the h2 element at the top of the for sale page */
-#current-stock h2 {
+#current-stock h1 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 200%;
