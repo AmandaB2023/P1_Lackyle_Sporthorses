@@ -114,7 +114,7 @@ main {
     height: 600px;
     width: 100%;
     /*Image centered horizontally and vertically*/
-    background: url("../images/hero_lackyle.webp")no-repeat center center/cover;
+    background: url("../images/lackyle-hero.webp")no-repeat center center/cover;
     position: relative;
 }
 
@@ -362,7 +362,7 @@ textarea {
 /*Contact form text and backround color*/
 .thank_you_form {
     color: #ffffff;
-    background-color: rgba(17, 35, 63, 0.7);
+    background-color: rgba(17, 35, 63, 0.9);
     padding: 10px;
 }
 
@@ -411,12 +411,16 @@ footer {
 
 }
 
-#location h3,
-h5 {
+#location h3 {
     /* Override the heading colour set in general styles */
     color: #fafafa;
     padding: 5px;
     line-height: 1.3;
+}
+
+#location h4 {
+    /* Override the heading colour set in general styles */
+    color: #fafafa;
 }
 
 .contact_form_link {
@@ -431,13 +435,15 @@ h5 {
 
 #location p {
     font-size: 12px;
+    padding-top: 5px;
+    line-height: 1.0;
     padding-left: 10px;
-    line-height: 1.3;
 }
 
 /*Footer Contact Us map*/
 .logo-map {
-    width: 200px;
+    width: 150px;
+    height: 110px;
 
 }
 

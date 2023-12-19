@@ -1,4 +1,4 @@
-
+![Logo](documentation/lackyle_logo_2023.webp)
 ## Lackyle Sporthorses
 
 Lackyle Sporthorses is a small equestrian business based in Craughwell, Co Galway, Ireland. Its business concerns the breeding, producing and sourcing horses for a variety of equestrian spheres. Their clientele consists of both national and international clients designed to be a responsive website that offers visitors a fluid layout that will change to accommodate a variety of different devices and screen viewing sizes.
@@ -25,7 +25,7 @@ Link to live site:
 
 *   To make it easy for an end user to contact Lackyle Stables either by way of the contact form, the Phone number, email or postal address located in the footer.
 
-*   To allow users to identify the location of Lackyle Stables via  the postal address in the footer and also by viewing the google-map image.
+*   To allow users to identify the location of Lackyle Stables via the postal address in the footer and also by viewing the google-map image.
 
 
 ### First Time Visitor Goals
@@ -60,7 +60,7 @@ Link to live site:
 
 •	General information about Lackyle Sables will be included on the Home page.
 
-•	The Horses offered for sale will be presented on a page called For Sale. Each horse for sale will have a profile picture with a basic description. The user will then click on a button to obtain a more detailed description of each horses, which will include photos and video.
+•	The Horses offered for sale will be presented on a page called For Sale. Each horse for sale will have a profile picture with a basic description. The user will then click on a button to obtain a more detailed description of each horse, which will include photos and videos.
 
 •	A contact form asking for the user's contact details will be included on a separate contact page.
 
