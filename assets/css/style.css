@@ -123,10 +123,10 @@ main {
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: rgba(185, 195, 200, 0.8);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     bottom: 30px;
-    width: 80%;
+    width: 90%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
@@ -523,8 +523,8 @@ footer {
 
     /*Logo will display bigger on larger screen size*/
     .logo {
-        width: 120px;
-        height: 80px;
+        width: 100px;
+        height: 70px;
         padding-top: 2px;
     }
 
