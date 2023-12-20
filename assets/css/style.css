@@ -134,8 +134,8 @@ main {
     /*Cover text size and color*/
 }
 
-#cover-text>h2,
-#cover-text>h3 {
+#cover-text>h1,
+#cover-text>h2 {
     color: #112233;
 }
 
