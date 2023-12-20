@@ -110,8 +110,9 @@ main {
 }
 
 /* Hero section */
+
 #hero {
-    height: 600px;
+    height: 700px;
     width: 100%;
     /*Image centered horizontally and vertically*/
     background: url("../images/lackyle-sporthorses-hero.webp")no-repeat center center/cover;
