@@ -103,7 +103,7 @@ main {
     /* Enlarged main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 85px;
+    margin-top: 60px;
     /* Enables flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -525,13 +525,13 @@ footer {
     .logo {
         width: 100px;
         height: 70px;
-        padding-top: 2px;
+
     }
 
     /* Main content */
     main {
         /* This will push main content down to allow for a larger header on larger screens */
-        margin-top: 79px;
+        margin-top: 65px;
     }
 
     /* Hero image */
