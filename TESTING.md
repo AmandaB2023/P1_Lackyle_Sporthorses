@@ -3,12 +3,12 @@
 
 ## Compatability
 
-In order to ensure the website has the correct compatabilty, functionality and responsiveness , I checked it on both Microsoft Edge and Google Chrome.
+In order to ensure the website has the correct compatability, functionality and responsiveness, I checked it on both Microsoft Edge and Google Chrome.
 
 *   Microsoft Edge
 
 
-![Microsoft Edge](documentation/microsoft_edge%20.gif)
+![Microsoft Edge](documentation/microsoft_edge.gif)
 
 
 *   Google Chrome
@@ -21,25 +21,6 @@ In order to ensure the website has the correct compatabilty, functionality and r
 
 The website was also checked manually using Devtools on both Microsoft Edge and Google Chrome.
 
-*   Home Page
-![Home](documentation/home.gif)
-
-*   For Sale Page
-![For_Sale](documentation/for_sale.gif)
-
-*   Morgan Page 
-![Morgan](documentation/morgan.gif)
-
-*   Pepper Page
-![Pepper](documentation/pepper.gif)
-
-*   Cici Page
-
-*   Contact Us Page
-![Contact_us](documentation/contact.gif)
-
-*   Thank You Page
-![Thank_you](documentation/thank_you.gif)
 
 ### Responsive Viewer
 The website was also checked using the responsive viewer extentions on google chrome which shows the website on various different screen sizes.
@@ -57,23 +38,73 @@ The website was also checked using the responsive viewer extentions on google ch
 ![Morgan_image](documentation/responsive_viewer_morgan.JPG)
     
 *   Pepper
+
 ![Pepper_image](documentation/pepper.JPG)
 
 
 *   Cici
+
 ![Cici_image](documentation/cici.JPG)
 
 *   Contact
+
 ![Responsive_viewer_contact](documentation/responsive_viewer_contact.JPG)
 
 *   Thank You
+
 ![Responsive_viewer_contact](documentation/thank_you.JPG)
+
+### Responsive Design Checker
 
 The website was also checked using [link](https://responsivedesignchecker.com/) on various different screen sizes.
 
 *   Desktop
+
+
+    *   24 inch Desktop
+
+     ![24_inch_desktop](documentation//24inch.JPG)
+
+
+    *   22 inch Desktop
+
+     ![22_inch_desktop](documentation/22-inch.JPG)
+
+
+    *   15 inch Desktop
+
+     ![15_inch_desktop](documentation/15_inchJPG.JPG)
+
+
+    *   10 inch Desktop
+
+    ![10_inch_desktop](documentation/10_inch.JPG)
+
+
 *   Tablet
+
+
+    *   Ipad Mini
+
+     ![iPad_mini](documentation/ipad_mini.JPG)
+
+    *   Nexus 7
+
+     ![nexus](documentation/nexus_7.JPG)
+
 *   Mobile
+
+    *   Iphone 3
+
+     ![iphone_3](documentation/iphone3.JPG)
+
+     *  Iphone 
+
+      ![iphone_6](documentation/iphone6.JPG)
+
+    *   Samsung Galexy 5/6/7
+
+     ![samsung](documentation/samsung_galexy.JPG)
 
 ## Manual Testing
 
@@ -103,19 +134,54 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ## Validator Testing
+ All the code for every page of the site has been run through The W3C HTML Markup Validation Service and the The W3C CSS Markup Validation Service to test the code for any errors. On the final tests i did have errors on my full advert discription pages , mainly due to the youtube video emed and the lack of a tile to a section whch did not require a title
+
 
 *   Home
+
 ![Home_html](documentation/html_checker_home.JPG)
 
 *   For Sale
+
 ![For_sale_html](documentation/html_checker_for_sale.JPG)
 
+*   Morgan
+
+![Morgan_html](documentation/html_checker_morgan.JPG)
+
+*   Pepper
+
+![Pepper_html](documentation/html_checker_pepper.JPG)
+
+*   Cici
+
+![Cici_html](documentation/html_checker_cici.jPG)
+
 *   Contact
+
 ![Contact_html](documentation/html_checker_contact.JPG)
+
+*   Thank You
+
+![Thank_you_html](documentation/html_checker_thank_you.JPG)
+
+*   CSS
+ No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+
+![CSS](documentation/css-checked.JPG)
+
+
 ## Lighthouse Report
 
 ## Bugs
+
+*   I did have some issues trying to get the hero image to be responsive and in the end i changed the image.
+
+*   I also have an issue getting my for sale page to format corretly, but this was again doen to the images. In order to resolve this I edited the image using Canva before add it to the website.
+
+
 ## Unsolved Bugs
+No known bugs apart from the Css issues mentioned above.
 
 ## Mistakes
 I made afew mistakes when making my commits by using past tennce or not phrasing them coirrely and not given emough detail of what was changed. This is something which i will nedd to be more aware of going forward.
