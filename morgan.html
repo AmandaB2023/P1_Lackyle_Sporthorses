@@ -18,8 +18,6 @@
     <link rel="mask-icon" href="assets/favicon_lackyle/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
-    <!--Will refrsh to homepage after 10 seconds-->
-    <meta http-equiv="refresh" content="10;url=index.html">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css" alt="link to sytlesheet for website">
 </head>
@@ -28,7 +26,7 @@
     <!--Header-->
     <header>
         <a href="index.html">
-            <img class="logo" src="assets/images/logo-lackyle.webp" alt="Lackyle Sporthorses Logo and link to homepage">
+            <img class="logo" src="assets/images/logo-lackyle.webp" alt="lackyle sporthorses logo and link to homepage">
         </a>
         <!--Checkbox to toggle menu-->
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
@@ -39,7 +37,7 @@
         <!--Navigation Menu-->
         <nav>
             <ul id="menu">
-                <li><a href="index.html" aria-label="click here to go to the home page">Home</a></li>
+                <li><a href="index.html" aria-label="click here to go to the home page" class="active">Home</a></li>
                 <li><a href="for_sale.html" aria-label="click here to go to the for sale page">For Sale</a></li>
                 <li><a href="contact.html" aria-label="click here to go to the contact page">Contact Us</a></li>
             </ul>
@@ -47,22 +45,45 @@
     </header>
     <!--Main-->
     <main>
-        <!--Contact Us Thank you page-->
-        <section id="contact">
-            <div class="thank_you_form">
-                <h1>Thank You.</h1>
-                <h2>Your equiry has been recieved.</h2>
-                <h3>A member of our Team will be in contact as soon as possible</h3>
+        <!--Extended Advert Details-->
+
+        <section class="advert-gallery-heading">
+            <h1>Morgan</h1>
+            <h2> 3 year old Bay Gelding </h2>
+            <h3> Registed Name:&nbsp;&nbsp; Captain Morgan </h3>
+            <h4> Height:&nbsp;&nbsp;168 cm </h4>
+            <h4>Sire:&nbsp;&nbsp; Vivant Van de Heffink </h4>
+            <h4> Dam:&nbsp;&nbsp; Moorefield Lady </h4>
+            <p> Super young horse, just started his training , should make a top class eventer, three super paces,
+                very trainable and willing to learn.
+                Neat over his fences and takes everything in his stride.Clean Vet certificate and X-rays.
+                <div class="go-back">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <a href="for_sale.html" aria-label="click here to go to back to for sale page">Go Back</a>
+                </div>
+        </section>
+        <section class="advert-full">
+            <div>
+                <img src="assets/images/morgan.webp">
+            </div>
+            <div>
+                <img src="assets/images/morgan_2.webp">
+            </div>
+            <div>
+                <iframe class="embed-container" src="//www.youtube.com/embed/nxjbwVkMGuw?si=NJj7472WPfpYot09"
+                    title="YouTube video player" aria-label="youtube video of horse called morgan" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
             </div>
         </section>
+
     </main>
     <!--Footer-->
     <footer>
-
         <!--Location Details-->
         <section id="location">
             <div>
-                <h3>Contact Us </h3>
+                <h3>Get in Touch :</h3>
                 <br>
             </div>
             <div>

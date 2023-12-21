@@ -47,8 +47,8 @@ header a {
 
 /*Header logo size*/
 .logo {
-    width: 120px;
-    height: 80px;
+    width: 140px;
+    height: 90px;
 
 }
 
@@ -103,7 +103,7 @@ main {
     /* Enlarged main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 85px;
+    margin-top: 60px;
     /* Enables flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -115,7 +115,7 @@ main {
     height: 600px;
     width: 100%;
     /*Image centered horizontally and vertically*/
-    background: url("../images/lackyle-sporthorses-hero.webp")no-repeat center center/cover;
+    background: url("../images/hero_update.webp")no-repeat center center/cover;
     position: relative;
 }
 
@@ -123,10 +123,10 @@ main {
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: rgba(185, 195, 200, 0.8);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     bottom: 30px;
-    width: 80%;
+    width: 90%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
@@ -289,6 +289,131 @@ main {
     transform: translateY(-20px);
 }
 
+/*advert extended*/
+
+.advert-full {
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.advert-full div {
+    background-color: rgba(17, 34, 51);
+    padding: 15px;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+.advert-full img {
+    max-width: 250px;
+    width: 100%;
+}
+
+.advert-gallery-heading {
+    color: #ffffff;
+    justify-content: center;
+    flex: 1;
+    flex-basis: 200px;
+
+}
+
+.advert-gallery-heading>h1 {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 20px;
+    margin-top: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.advert-gallery-heading>h2 {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    width: 80%;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.advert-gallery-heading>h3 {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.advert-gallery-heading>h4 {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.advert-gallery-heading p {
+    /*Centers text in a block in the middle*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.go-back {
+    margin: 50px;
+    background-color: #112233;
+}
+
+.go-back a {
+    text-decoration: none;
+    border-radius: 1px;
+    color: #ffffff;
+}
+
+.go-back :hover {
+    background-color: #ffffff;
+    color: #112233;
+    border-radius: 2px;
+}
+
+
+
+/*Youtube video embed container*/
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    max-width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 /*Contact Page*/
 /*Contact Us Form*/
@@ -321,7 +446,7 @@ main {
     background: transparent;
     color: #fafafa;
     width: 100%;
-    height: 18px;
+    height: 22px;
     margin: 5px 0 15px 0;
     border: 2px solid #fafafa;
     border-radius: 2px;
@@ -342,7 +467,7 @@ textarea {
     background: transparent;
     color: #fafafa;
     width: 100%;
-    height: 18px;
+    height: 22px;
     margin: 5px 0 15px 0;
     border: 2px solid #fafafa;
     border-radius: 2px;
@@ -389,26 +514,17 @@ footer {
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
-
-}
-
-/* Location section */
-#location {
-    /* Handles responsivity without the need for a media query */
-    display: flex;
-    flex-wrap: wrap;
 }
 
 #location div {
     color: #fafafa;
     background-color: rgba(17, 34, 51);
     padding: 15px;
-    text-align: left;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
     flex-grow: 1;
-    /* Creates a grid of meetup time dives over the background image */
+
 
 }
 
@@ -417,11 +533,13 @@ footer {
     color: #fafafa;
     padding: 5px;
     line-height: 1.3;
+    text-align: left;
 }
 
 #location h4 {
     /* Override the heading colour set in general styles */
     color: #fafafa;
+    text-align: left;
 }
 
 .contact_form_link {
@@ -439,6 +557,7 @@ footer {
     padding-top: 5px;
     line-height: 1.0;
     padding-left: 10px;
+    text-align: left;
 }
 
 /*Footer Contact Us map*/
@@ -523,9 +642,9 @@ footer {
 
     /*Logo will display bigger on larger screen size*/
     .logo {
-        width: 120px;
-        height: 80px;
-        padding-top: 2px;
+        width: 150px;
+        height: 100px;
+
     }
 
     /* Main content */
