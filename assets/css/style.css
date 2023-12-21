@@ -316,6 +316,7 @@ main {
 .advert-gallery-heading {
     color: #ffffff;
     justify-content: center;
+    margin-top: 15px;
     flex: 1;
     flex-basis: 200px;
 
