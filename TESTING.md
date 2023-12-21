@@ -171,7 +171,7 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 ![CSS](documentation/css-checked.JPG)
 
 
-##Lighthouse Report
+## Lighthouse Report
 
 
 ![Lighthouse_home](documentation/lighthouse_homeJPG.JPG)
