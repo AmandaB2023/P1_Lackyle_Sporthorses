@@ -103,3 +103,10 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ## Validator Testing
+## Lighthouse Report
+
+## Bugs
+## Unsolved Bugs
+
+## Mistakes
+I made afew mistakes when making my commits by using past tennce or not phrasing them coirrely and not given emough detail of what was changed. This is something which i will nedd to be more aware of going forward.
