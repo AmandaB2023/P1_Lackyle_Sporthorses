@@ -103,6 +103,15 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ## Validator Testing
+
+*   Home
+![Home_html](documentation/html_checker_home.JPG)
+
+*   For Sale
+![For_sale_html](documentation/html_checker_for_sale.JPG)
+
+*   Contact
+![Contact_html](documentation/html_checker_contact.JPG)
 ## Lighthouse Report
 
 ## Bugs
