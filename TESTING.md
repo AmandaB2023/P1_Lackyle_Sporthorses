@@ -3,8 +3,15 @@
 ##Compatability
 
 In order to ensure the website has the correct compatabilty, functionality and responsiveness , I checked it on both Microsoft Edge and Google Chrome.
+
 *   Microsoft Edge
+
+[Microsoft Edge](documentation/microsoft_edge%20.gif)
+
 *   Google Chrome
+
+[Google Chrome](documentation/chrome.gif)
+
 
 ##Responsiveness
 
