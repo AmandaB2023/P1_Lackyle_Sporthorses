@@ -171,7 +171,21 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 ![CSS](documentation/css-checked.JPG)
 
 
-## Lighthouse Report
+##Lighthouse Report
+
+
+![Lighthouse_home](documentation/lighthouse_homeJPG.JPG)
+
+
+![Lighthouse_for_sale](documentation/lighthouse_for_saleJPG.JPG)
+
+
+![Lighthouse_contact](documentation/lighthouse_contactJPG.JPG)
+
+
+![Lighthouse_morgan](documentation/lighthouse_morgan.JPG)
+
+
 
 ## Bugs
 
