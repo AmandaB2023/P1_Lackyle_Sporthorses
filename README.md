@@ -7,14 +7,14 @@ The target audience is anyone looking to have a horse schooled for competition o
 
 The goal of the site is to provide potential clients with an overview of the business and to provide easy-to-follow information about the business, the services it offers, current stock available for sale and its location. 
 
-Link to live site: https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html
+Link to live site: ![Lackyle Sporthorses](https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html)
 
 ## Contents
 *   User Experience
     *   Site Owner Goals
     *   First Time User Goals
     *   Returning Visitor/ Frequent User
-    *   Features to achieve Goals
+    *   Features to Achieve Goals
 *   Site Structure
 *   Features
     *   Header
@@ -113,7 +113,7 @@ All pages will have:
 
 * On smaller screen sizes such as mobile phones or tablets to allow for a good user experience of the site, the Lackyle Sporthorses navigation menu text is hidden with a media query to prevent the navigation bar from being cluttered. 
 
-* When viewing the site with mobile devices and/or tablets the navigation links change to a toggle menu with the use of a burger icon. This was implemented to give the site a clean and non-cluttered appearance, as well as providing a good user experience. Given that most users would already be familiar with seeing and using the burger icon when navigating websites on mobile and other smaller-screen devices.
+* When viewing the site with mobile devices and/or tablets the navigation links change to a toggle menu with the use of a burger icon. This was implemented to give the site a clean and non-cluttered appearance, as well as to provide a good user experience. Given that most users would already be familiar with seeing and using the burger icon when navigating websites on mobile and other smaller-screen devices.
 
 * A footer that contains links and icons for the four main social media platforms namely Facebook, Instagram, Twitter and YouTube. 
 
@@ -192,7 +192,7 @@ The header which includes a navigation menu is fixed to improve user experience.
     *   Address
     *   Telephone
     *   Email
-    *   Location Map- using a google maps iframe link.
+    *   Location Map- using google maps iframe link.
 
 *   The footer also contains social media links with a hover effect which when clicked will open a new tab.
 
@@ -209,7 +209,7 @@ The header which includes a navigation menu is fixed to improve user experience.
 ### Contact Page
 *   The header and footer are the same as the homepage.
 *   The contact page then has a background image with a form overlay that the user can fill in to contact Lackyle Sporthorses.
-    *   All text input fields are customised
+    *   All text input fields are customized
     *   Labels are animated when the input field is in focus and are not empty.
     *   First name, Last name, and email are set to required, while Enquiry and Phone number are not.
     *   The submit button is animated on hover.
@@ -240,14 +240,14 @@ The header which includes a navigation menu is fixed to improve user experience.
 *   GitHub was used to host the code of the website.
 *   Canva was used to resize images.
 *   Chrome screen recorder plugin was used to create gifs.
-*   W3C CSS Validation https://jigsaw.w3.org/css-validator/
-*   W3C Markup Validation  https://validator.w3.org/
+*   W3C CSS Validation ![W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+*   W3C Markup Validation ![W3C Markup Validation](https://validator.w3.org/)
 
 
 ## Design
 
 ### Color Scheme
-As Lackyle Stables already have their own colors, I worked these into the website. The background is mostly blue as the  color blue can increase user engagement and conversion rates.The text on the blue background is white in order to make it stand out. This color combination is revered on buttons and a light grey is intorduced for contrast. This is the same with the buttons and the hover element. While the social media icons transition to their signature colors when hovered over.
+As Lackyle Stables already have their own colors, I worked these into the website. The background is mostly blue as the color blue can increase user engagement and conversion rates. The text on the blue background is white in order to make it stand out. This color combination is revered on buttons and a light grey is introduced for contrast. This is the same with the buttons and the hover element. While the social media icons transition to their signature colors when hovered over.
 
 ![Colors](documentation/colors.JPG)
 
@@ -291,7 +291,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 *   From the source section drop-down menu, select the Main Branch, then click "Save".
 *   The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here: https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html
+The live link can be found here: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html)
 
 #### Local Deployment
 In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository.
@@ -324,23 +324,23 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 ## Credits
 
 #### Content
-*   I got the colors for the social media icons from https://usbrandcolors.com/instagram-colors/
+*   I got the colors for the social media icons from ![Link](https://usbrandcolors.com/instagram-colors/)
 *   Fonts were imported from Google Fonts.
 *   Icons were imported from Font Awesome.
 *   The Code Institute Love Running project for the basic website structure and toggle menu.
 
 #### Media
 
-*   Hero image on homepage was taken from Pexels https://www.pexels.com/
+*   Hero image on homepage was taken from Pexels ![Pexels](https://www.pexels.com/)
 *   The logo I created myself using Canva.
 *   All other images and videos on the website are my own.
 
 Tools
-*   Canva was used to create the logo and to resize the images where needed.
+*   Canva was used to create the logo and to resize the images where needed.![Canva](ttps://www.canva.com/)
 *   Snipping Tool was used to take pictures of my screen for testing.
 *   Freeconvert was used to convert my images from jpg or png to webp.
 *   Google screen recorder for taking video to make gifs.
-*   Veed https://www.veed.io/convert/webm-to-gif to convert my videos into gifs.
+*   Veed ![Veed](https://www.veed.io/convert/webm-to-gif) to convert my videos into gifs.
 
 ## Acknowledgments
 
@@ -349,6 +349,6 @@ Tools
 *   Code Institute tutors and Slack community members for their support and help.
 *   Kevin Powell for his CSS tutorials.
 
-*   https://www.digital.ink/blog/mobile-responsive-youtube-embeds/ where I got information on how to embed my youtube videos and make them responsive.
+*   ![Link](https://www.digital.ink/blog/mobile-responsive-youtube-embeds/) where I got information on how to embed my youtube videos and make them responsive.
 
-*   Youtube : https://www.youtube.com/watch?v=9FNNkzPBFcE where I got the idea for the cards on the for sale page.
+*   Youtube : ![Link](https://www.youtube.com/watch?v=9FNNkzPBFcE) where I got the idea for the cards on the for sale page.
