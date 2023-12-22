@@ -331,16 +331,16 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 #### Media
 
-*   Hero image on homepage was taken from Pexels ![Pexels](https://www.pexels.com/)
+*   Hero image on homepage was taken from Pexels ![Pexels](https://www.pexels.com)
 *   The logo I created myself using Canva.
 *   All other images and videos on the website are my own.
 
 Tools
-*   Canva was used to create the logo and to resize the images where needed.![Canva](ttps://www.canva.com/)
+*   Canva was used to create the logo and to resize the images where needed.![Canva](https://www.canva.com)
 *   Snipping Tool was used to take pictures of my screen for testing.
 *   Freeconvert was used to convert my images from jpg or png to webp.
 *   Google screen recorder for taking video to make gifs.
-*   Veed ![Veed](https://www.veed.io/convert/webm-to-gif) to convert my videos into gifs.
+*   Veed ![Veed] (https://www.veed.io/convert/webm-to-gif) to convert my videos into gifs.
 
 ## Acknowledgments
 
