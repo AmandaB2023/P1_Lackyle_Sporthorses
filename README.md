@@ -7,7 +7,7 @@ The target audience is anyone looking to have a horse schooled for competition o
 
 The goal of the site is to provide potential clients with an overview of the business and to provide easy-to-follow information about the business, the services it offers, current stock available for sale and its location. 
 
-Link to live site: ![Lackyle Sporthorses](https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html)
+Link to live site: [Lackyle Sporthorses](https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html)
 
 ## Contents
 *   User Experience
@@ -240,8 +240,8 @@ The header which includes a navigation menu is fixed to improve user experience.
 *   GitHub was used to host the code of the website.
 *   Canva was used to resize images.
 *   Chrome screen recorder plugin was used to create gifs.
-*   W3C CSS Validation ![W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
-*   W3C Markup Validation ![W3C Markup Validation](https://validator.w3.org/)
+*   W3C CSS Validation [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+*   W3C Markup Validation [W3C Markup Validation](https://validator.w3.org/)
 
 
 ## Design
@@ -331,24 +331,24 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 #### Media
 
-*   Hero image on homepage was taken from Pexels ![Pexels](https://www.pexels.com)
+*   Hero image on homepage was taken from Pexels [Pexels](https://www.pexels.com)
 *   The logo I created myself using Canva.
 *   All other images and videos on the website are my own.
 
 Tools
-*   Canva was used to create the logo and to resize the images where needed.![Canva](https://www.canva.com)
+*   Canva was used to create the logo and to resize the images where needed.[Canva](https://www.canva.com)
 *   Snipping Tool was used to take pictures of my screen for testing.
 *   Freeconvert was used to convert my images from jpg or png to webp.
 *   Google screen recorder for taking video to make gifs.
-*   Veed ![Veed] (https://www.veed.io/convert/webm-to-gif) to convert my videos into gifs.
+*   Veed [Veed](https://www.veed.io/convert/webm-to-gif) to convert my videos into gifs.
 
 ## Acknowledgments
 
-*   First and foremost my mentor Jullia Konovalova for all her advice and guidance on this first project. She was a great help throughout.
+*   First and foremost my mentor Juliia Konovalova for all her advice and guidance on this first project. She was a great help throughout.
 
 *   Code Institute tutors and Slack community members for their support and help.
 *   Kevin Powell for his CSS tutorials.
 
-*   ![Link](https://www.digital.ink/blog/mobile-responsive-youtube-embeds/) where I got information on how to embed my youtube videos and make them responsive.
+*   [Link](https://www.digital.ink/blog/mobile-responsive-youtube-embeds/) where I got information on how to embed my youtube videos and make them responsive.
 
-*   Youtube : ![Link](https://www.youtube.com/watch?v=9FNNkzPBFcE) where I got the idea for the cards on the for sale page.
+*   Youtube : [Link](https://www.youtube.com/watch?v=9FNNkzPBFcE) where I got the idea for the cards on the for sale page.
