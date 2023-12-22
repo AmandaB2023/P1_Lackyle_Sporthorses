@@ -159,7 +159,7 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ## Validator Testing
- All the code for every page of the site has been run through The W3C HTML Markup Validation Service and the The W3C CSS Markup Validation Service to test the code for any errors. On the final tests I did have errors on my full advert discription pages , mainly due to the youtube video emed and the lack of a tile to a section whch did not require a title
+ All the code for every page of the site has been run through The W3C HTML Markup Validation Service and the The W3C CSS Markup Validation Service to test the code for any errors. On the final tests I did have errors on my full advert description pages , mainly due to the youtube video embed and the lack of a tile for a section which did not require a title.
 
 
 *   Home
