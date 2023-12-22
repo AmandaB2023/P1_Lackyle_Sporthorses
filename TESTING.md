@@ -81,7 +81,7 @@ The website was also checked using the responsive viewer extention on google chr
 
 ### Responsive Design Checker
 
-The website was also checked using [link](https://responsivedesignchecker.com/) on various different screen sizes.
+The website was also checked using [Responsive Design Checker](https://responsivedesignchecker.com/) on various different screen sizes.
 
 *   Desktop
 
@@ -255,4 +255,4 @@ I do have two issues in my CSS, one is to do with the youtube video embed and th
 ## Mistakes
 I made a few mistakes when making my commits by using past tennce or not phrasing them correctly and not giving emough detail of what was changed. This is something which i will nedd to be more aware of going forward.
 
-My wireframe aslo need work as i found balsamiq diffficult to get used to.
+My wireframe also need work as i found balsamiq diffficult to get used to.
