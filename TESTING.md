@@ -23,19 +23,27 @@ The website was also checked manually using Devtools on both Microsoft Edge and 
 
 *   Home
 
-![home_devtools](documentation/home_)
+![Home_devtools](documentation/home_devtools_fold.JPG)
 
-*   For sale Page
+![Home_devtools](documentation/home_devtools_M.JPG)
 
-![For_sale_devtools](documentation/for_sale_responsive.gif)
+*   For Sale 
 
-*   For Sale Page advert (Morgan)
+![For_sale_fold](documentation/for_sale_fold.JPG)
 
-![advert_devtools](documentation/morgan.gif)
+![For_sale_m](documentation/for_sale_m.JPG)
+
+*   Advert Page
+
+![For_sale_advert](documentation/pepper_fold.JPG)
+
+![For_sale_advert_medium](documentation/pepper_m.JPG)
 
 *   Contact
 
-![Contact_devtools](documentation/contact.gif)
+![contact_devtools](documentation/contact_fold.JPG)
+
+![contact_devtoolsm](documentation/contact_mJPG.JPG)
 
 
 
@@ -115,7 +123,7 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 
      ![iphone_3](documentation/iphone3.JPG)
 
-     *  Iphone 
+     *  Iphone 6
 
       ![iphone_6](documentation/iphone6.JPG)
 
@@ -151,7 +159,7 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ## Validator Testing
- All the code for every page of the site has been run through The W3C HTML Markup Validation Service and the The W3C CSS Markup Validation Service to test the code for any errors. On the final tests i did have errors on my full advert discription pages , mainly due to the youtube video emed and the lack of a tile to a section whch did not require a title
+ All the code for every page of the site has been run through The W3C HTML Markup Validation Service and the The W3C CSS Markup Validation Service to test the code for any errors. On the final tests I did have errors on my full advert discription pages , mainly due to the youtube video emed and the lack of a tile to a section whch did not require a title
 
 
 *   Home
@@ -234,13 +242,17 @@ the only issue raiseed was where I used html and css to create a toggle and the 
 
 ## Bugs
 
-*   I did have some issues trying to get the hero image to be responsive and in the end i changed the image.
+*   I did have some issues trying to get the hero image to be responsive and in the end I changed the image.
 
-*   I also have an issue getting my for sale page to format corretly, but this was again doen to the images. In order to resolve this I edited the image using Canva before add it to the website.
+*   I also have an issue getting my for sale page to format corretly, but this was again down to the image sizing. In order to resolve this I edited the image using Canva before adding it to the website.
+
 
 
 ## Unsolved Bugs
 No known bugs apart from the Css issues mentioned above.
+I do have two issues in my CSS, one is to do with the youtube video embed and the other is an item taht does not require a heading.
 
 ## Mistakes
-I made afew mistakes when making my commits by using past tennce or not phrasing them coirrely and not given emough detail of what was changed. This is something which i will nedd to be more aware of going forward.
+I made a few mistakes when making my commits by using past tennce or not phrasing them correctly and not giving emough detail of what was changed. This is something which i will nedd to be more aware of going forward.
+
+My wireframe aslo need work as i found balsamiq diffficult to get used to.

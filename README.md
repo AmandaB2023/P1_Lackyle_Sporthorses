@@ -7,8 +7,43 @@ The target audience is anyone looking to have a horse schooled for competition o
 
 The goal of the site is to provide potential clients with an overview of the business and to provide easy-to-follow information about the business, the services it offers, current stock available for sale and its location. 
 
-Link to live site: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/for_sale.html)
+Link to live site: https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html
+
 ## Contents
+*   User Experience
+    *   Site Owner Goals
+    *   First Time User Goals
+    *   Returning Visitor/ Frequent User
+    *   Features to achieve Goals
+*   Site Structure
+*   Features
+    *   Header
+    *   Navigation Menu
+    *   Home Page
+        *   Hero
+        *   Main
+        *   Footer
+    *   For Sale Page
+    *   Contact Page
+    *   Response Page
+*   Technologies Used
+*   Design
+    *   Color Scheme
+    *   Typography
+*   Wireframes
+*   Testing
+*   Deployment
+    *   Deployment to Github pages
+    *   Local Deployment
+*   Future Improvements
+*   Credits
+    *   Content
+    *   Media
+    *   Tools
+*   Acknowledgments
+
+
+
 
 ## User Experience
 
@@ -37,7 +72,7 @@ Link to live site: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/
 
 *   I want to be able to navigate the site easily to find information.
 
-*   As a user I want to be able to find out what horses Lackyle Stables currently have for sale.
+*   As a user, I want to be able to find out what horses Lackyle Stables currently have for sale.
 
 *   I want to be able to find a description of each horse for sale.
 
@@ -66,8 +101,6 @@ Link to live site: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/
 
 *   A contact form asking for the user's contact details will be included on a separate contact page.
 
-## Wireframes
-I created wireframes to visualize my ideas using Balsamiq. As I want to stick to the mobile-first approach I created wireframes for mobile, tablet and desktop screen sizes.
 
 ## Site Structure
 The website is comprised of five pages, three of which are accessible from the navigation menu (home page, for sale page & contact us page). The fourth page is a thank you page which is shown once a user submits the contact form on the contact page and the fifth page is a 404 page which will be shown if the user encounters an error on the site.
@@ -207,6 +240,8 @@ The header which includes a navigation menu is fixed to improve user experience.
 *   GitHub was used to host the code of the website.
 *   Canva was used to resize images.
 *   Chrome screen recorder plugin was used to create gifs.
+*   W3C CSS Validation https://jigsaw.w3.org/css-validator/
+*   W3C Markup Validation  https://validator.w3.org/
 
 
 ## Design
@@ -228,7 +263,18 @@ Merriweather was used for all the h1 elements while Montserrat was used the othe
 
 ![Montserrat](documentation/font2.JPG)
 
+## Wireframes
 
+The wireframes for the website were designed using Balsamiq. The designs vary from the end layout in some places due to creative decisions made throughout the development process.
+
+*   Home
+![Home_wireframe](documentation/home_wireframe.JPG)
+
+*   For Sale
+![ForSale_wireframe](documentation/for_sale_wireframe.JPG)
+
+*   Contact
+![Contact_wireframe](documentation/contact_wireframe.JPG)
 
 
 ## Testing
@@ -252,7 +298,7 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 1.   Sign in to GitHub, locate the repository and click to open the repository.
 
-2.   On the repository main page, click the green code button  where the files are located. 
+2.   On the repository main page, click the green code button where the files are located. 
 
 3.   This will open a drop down menu.
 
@@ -270,8 +316,9 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 *   add custom 404 page
 *   add fully functional contact form.
-*   make inprovements to the advert pages to make them more interactive.
+*   make improvements to the advert pages to make them more interactive.
 *   improve my commit messages.
+*   I must also get better at making wireframes as I found balsamiq difficult to get used to.
 
 
 ## Credits
@@ -284,22 +331,24 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 #### Media
 
-*   Hero image on homepage was taken from ![pexels](https://www.pexels.com/)
+*   Hero image on homepage was taken from Pexels https://www.pexels.com/
 *   The logo I created myself using Canva.
-*   All other images and video on the website are my own.
+*   All other images and videos on the website are my own.
 
 Tools
 *   Canva was used to create the logo and to resize the images where needed.
 *   Snipping Tool was used to take pictures of my screen for testing.
-*   Freeconvert
+*   Freeconvert was used to convert my images from jpg or png to webp.
+*   Google screen recorder for taking video to make gifs.
+*   Veed https://www.veed.io/convert/webm-to-gif to convert my videos into gifs.
 
-## Acknowledgements
+## Acknowledgments
 
 *   First and foremost my mentor Jullia Konovalova for all her advice and guidance on this first project. She was a great help throughout.
 
 *   Code Institute tutors and Slack community members for their support and help.
 *   Kevin Powell for his CSS tutorials.
 
-*   https://www.digital.ink/blog/mobile-responsive-youtube-embeds/ where I got omformation of how to embed my youtube videos and make them responsive.
+*   https://www.digital.ink/blog/mobile-responsive-youtube-embeds/ where I got information on how to embed my youtube videos and make them responsive.
 
 *   Youtube : https://www.youtube.com/watch?v=9FNNkzPBFcE where I got the idea for the cards on the for sale page.
