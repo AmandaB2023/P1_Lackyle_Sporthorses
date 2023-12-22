@@ -212,10 +212,21 @@ The header which includes a navigation menu is fixed to improve user experience.
 ## Design
 
 ### Color Scheme
-As Lackyle Stables already have their own colors I worked there into the website. The background is mostly blue with white text or vice versa, this is the same with the buttons and the hover element. While the social media icons transition to their signature colors when hovered over.
+As Lackyle Stables already have their own colors, I worked these into the website. The background is mostly blue as the  color blue can increase user engagement and conversion rates.The text on the blue background is white in order to make it stand out. This color combination is revered on buttons and a light grey is intorduced for contrast. This is the same with the buttons and the hover element. While the social media icons transition to their signature colors when hovered over.
 
+![Colors](documentation/colors.JPG)
 
+### Typography
 
+Merriweather was used for all the h1 elements while Montserrat was used the other heading elements and the body text, with a back up of San Serif. These are two fonts I would be familiar with and felt they paired well together, as the website looked professional yet modern.
+
+*   Merriweather
+
+![Merriweather](documentation/font1.JPG)
+
+*   Montserrat
+
+![Montserrat](documentation/font2.JPG)
 
 
 
@@ -233,7 +244,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 *   In the GitHub repository, navigate to the Settings tab
 *   From the source section drop-down menu, select the Main Branch, then click "Save".
 *   The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here ![link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/for_sale.html)
+
+The live link can be found here: https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html
 
 #### Local Deployment
 In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository.
@@ -264,13 +276,13 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 
 ## Credits
 
-Content
+#### Content
 *   I got the colors for the social media icons from https://usbrandcolors.com/instagram-colors/
 *   Fonts were imported from Google Fonts.
 *   Icons were imported from Font Awesome.
 *   The Code Institute Love Running project for the basic website structure and toggle menu.
 
-Media
+#### Media
 
 *   Hero image on homepage was taken from ![pexels](https://www.pexels.com/)
 *   The logo I created myself using Canva.
@@ -283,6 +295,11 @@ Tools
 
 ## Acknowledgements
 
-*   First and foremost my mentor Jullia Konovalova
+*   First and foremost my mentor Jullia Konovalova for all her advice and guidance on this first project. She was a great help throughout.
+
 *   Code Institute tutors and Slack community members for their support and help.
-*   Kevin Powell for his css tutorials.
+*   Kevin Powell for his CSS tutorials.
+
+*   https://www.digital.ink/blog/mobile-responsive-youtube-embeds/ where I got omformation of how to embed my youtube videos and make them responsive.
+
+*   Youtube : https://www.youtube.com/watch?v=9FNNkzPBFcE where I got the idea for the cards on the for sale page.
