@@ -1,5 +1,5 @@
-![Logo](documentation/lackyle_logo_2023.webp)
-## Lackyle Sporthorses
+![Logo](documentation/lackyle_logo_small.JPG)
+# Lackyle Sporthorses
 
 Lackyle Sporthorses is a small equestrian business based in Craughwell, Co Galway, Ireland. Its business concerns the breeding, producing and sourcing horses for a variety of equestrian spheres. Their clientele consists of both national and international clients designed to be a responsive website that offers visitors a fluid layout that will change to accommodate a variety of different devices and screen viewing sizes.
 
@@ -7,7 +7,7 @@ The target audience is anyone looking to have a horse schooled for competition o
 
 The goal of the site is to provide potential clients with an overview of the business and to provide easy-to-follow information about the business, the services it offers, current stock available for sale and its location. 
 
-Link to live site:
+Link to live site: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/for_sale.html)
 ## Contents
 
 ## User Experience
@@ -29,40 +29,42 @@ Link to live site:
 
 
 ### First Time Visitor Goals
+*   As a user, I want to be able to navigate the website using a variety of devices.
 
-•   As a user, I want to be able to navigate the website using a variety of devices.
+*   As a user, I want to be able to find general information about Lackyle Stables.
 
-•   As a user, I want to be able to find general information about Lackyle Stables.
+    I want to find out what services Lackyle Stables offers.
 
-•   I want to find out what services Lackyle Stables offers.
+*   I want to be able to navigate the site easily to find information.
 
-•	I want to be able to navigate the site easily to find information.
+*   As a user I want to be able to find out what horses Lackyle Stables currently have for sale.
 
-•	As a user I want to be able to find out what horses Lackyle Stables currently have for sale.
+*   I want to be able to find a description of each horse for sale.
 
-•	I want to be able to find a description of each horse for sale.
+*   I want to be able to view both images and videos of horses for sale.
 
-•	I want to be able to view both images and videos of horses for sale.
+*   I want to be able to contact Lackyle Stables.
 
-•	I want to be able to contact Lackyle Stables.
+*   I want to be able to find their various social media profiles.
 
-•	I want to be able to find their various social media profiles.
 
 ### Returning Visitor / Frequent Visitor Goals
-•	I want to find up-to-date information on what Lackyle Stables have been up to via social media.
 
-•	I want to be able to find out what stock they currently have for sale.
+*   I want to find up-to-date information on what Lackyle Stables have been up to via social media.
 
-•	I want to be able to find a description of each horse for sale.
+*   I want to be able to find out what stock they currently have for sale.
 
-### Features to Achieve Goals 
-•	The website will be built with a mobile-first approach, to ensure it is responsive. I will also test it on various devices and screen sizes.
+*   I want to be able to find a description of each horse for sale.
 
-•	General information about Lackyle Sables will be included on the Home page.
+### Features to Achieve Goals
 
-•	The Horses offered for sale will be presented on a page called For Sale. Each horse for sale will have a profile picture with a basic description. The user will then click on a button to obtain a more detailed description of each horse, which will include photos and videos.
+*   The website will be built with a mobile-first approach, to ensure it is responsive. I will also test it on various devices and screen sizes.
 
-•	A contact form asking for the user's contact details will be included on a separate contact page.
+*   General information about Lackyle Sables will be included on the Home page.
+
+*   The Horses offered for sale will be presented on a page called For Sale. Each horse for sale will have a profile picture with a basic description. The user will then click on a button to obtain a more detailed description of each horse, which will include photos and videos.
+
+*   A contact form asking for the user's contact details will be included on a separate contact page.
 
 ## Wireframes
 I created wireframes to visualize my ideas using Balsamiq. As I want to stick to the mobile-first approach I created wireframes for mobile, tablet and desktop screen sizes.
@@ -137,17 +139,150 @@ The header which includes a navigation menu is fixed to improve user experience.
 #### Hero Section
 *   Below my navigation, I have a hero image. On the Home page, the hero is bigger than on the other pages. I added an overlay text box on top of the hero image to make sure that the text is readable.
 
-![hero]
+![hero](documentation/hero.JPG)
 
 #### Main Section
 *   Below the hero image is the main body section which:
 
     *   Contains an About Us section which provides information about Lackyle Sporthorses.
-    *   An Our Services section that provides a list of services that Lackyle Sporthorses offer.
-    The Our Services section also contains a background image.
 
-![]
+    *   An Our Services section that provides a list of services that Lackyle Sporthorses offers.
+    *   The Our Services section also contains a background image.
+
+![Main](documentation/main_home.JPG)
+
+
 #### Footer
 
+*   The footer contains business contact details :
+
+    *   Address
+    *   Telephone
+    *   Email
+    *   Location Map- using a google maps iframe link.
+
+*   The footer also contains social media links with a hover effect which when clicked will open a new tab.
 
 
+![Footer](documentation/footer.JPG)
+
+### For Sale Page
+*   The header and footer are the same as the homepage.
+
+*   While the main body section consists of three picture boxes with some writing. Each box then has a button that allows the user to see more information about each individual horse.
+
+![For_sale](documentation/for_sale.JPG)
+
+### Contact Page
+*   The header and footer are the same as the homepage.
+*   The contact page then has a background image with a form overlay that the user can fill in to contact Lackyle Sporthorses.
+    *   All text input fields are customised
+    *   Labels are animated when the input field is in focus and are not empty.
+    *   First name, Last name, and email are set to required, while Enquiry and Phone number are not.
+    *   The submit button is animated on hover.
+
+*   The page is responsive on all common screen sizes.
+
+*   The submit button leads to the response page.​
+
+![Contact](documentation/contact_us.JPG)
+
+
+### Response Page / Thank You Page
+
+*   Response page appears after submitting the contact form.
+*   It contains the thank you message and the promise to get in back to the user as soon as possible.
+*   It will automatically direct the user to the main page in 10 seconds.
+
+![Responce](documentation/responce_thank_you.jpg)
+
+## Technologies Used
+
+*   HTML was used as the foundation of the site.
+*   CSS - was used to add the styles and layout of the site.
+*   CSS Flexbox - was used to arrange items on the pages.
+*   Balsamiq was used to make wireframes for the website.
+*   VSCode was used as the main tool to write and edit code.
+*   Git was used for the version control of the website.
+*   GitHub was used to host the code of the website.
+*   Canva was used to resize images.
+*   Chrome screen recorder plugin was used to create gifs.
+
+
+## Design
+
+### Color Scheme
+As Lackyle Stables already have their own colors I worked there into the website. The background is mostly blue with white text or vice versa, this is the same with the buttons and the hover element. While the social media icons transition to their signature colors when hovered over.
+
+
+
+
+
+
+
+## Testing
+
+Please refer to the TESTING.md file for all test-related documentation.
+
+
+## Deployment
+
+
+#### Deployment to GitHub Pages
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+*   In the GitHub repository, navigate to the Settings tab
+*   From the source section drop-down menu, select the Main Branch, then click "Save".
+*   The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here ![link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/for_sale.html)
+
+#### Local Deployment
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository.
+
+1.   Sign in to GitHub, locate the repository and click to open the repository.
+
+2.   On the repository main page, click the green code button  where the files are located. 
+
+3.   This will open a drop down menu.
+
+4.   In the dropdown menu stay on the HTTPS option and click the copy icon button next to the URL to copy it.
+
+5.   Next open Git Bash and type git clone and your directory link.#
+
+6.  Then type cd and the directory name.
+
+7. Then code . to open VS Studio using Windows.
+
+![Github](documentation/github.JPG)
+
+## Future Improvments
+
+*   add custom 404 page
+*   add fully functional contact form.
+*   make inprovements to the advert pages to make them more interactive.
+*   improve my commit messages.
+
+
+## Credits
+
+Content
+*   I got the colors for the social media icons from https://usbrandcolors.com/instagram-colors/
+*   Fonts were imported from Google Fonts.
+*   Icons were imported from Font Awesome.
+*   The Code Institute Love Running project for the basic website structure and toggle menu.
+
+Media
+
+*   Hero image on homepage was taken from ![pexels](https://www.pexels.com/)
+*   The logo I created myself using Canva.
+*   All other images and video on the website are my own.
+
+Tools
+*   Canva was used to create the logo and to resize the images where needed.
+*   Snipping Tool was used to take pictures of my screen for testing.
+*   Freeconvert
+
+## Acknowledgements
+
+*   First and foremost my mentor Jullia Konovalova
+*   Code Institute tutors and Slack community members for their support and help.
+*   Kevin Powell for his css tutorials.

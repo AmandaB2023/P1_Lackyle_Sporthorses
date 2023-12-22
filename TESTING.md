@@ -21,9 +21,26 @@ In order to ensure the website has the correct compatability, functionality and 
 
 The website was also checked manually using Devtools on both Microsoft Edge and Google Chrome.
 
+*   Home
+
+![home_devtools](documentation/home_)
+
+*   For sale Page
+
+![For_sale_devtools](documentation/for_sale_responsive.gif)
+
+*   For Sale Page advert (Morgan)
+
+![advert_devtools](documentation/morgan.gif)
+
+*   Contact
+
+![Contact_devtools](documentation/contact.gif)
+
+
 
 ### Responsive Viewer
-The website was also checked using the responsive viewer extentions on google chrome which shows the website on various different screen sizes.
+The website was also checked using the responsive viewer extention on google chrome which shows the website on various different screen sizes.
 
 *   Home
 
@@ -173,19 +190,47 @@ The website was also checked using [link](https://responsivedesignchecker.com/) 
 
 ## Lighthouse Report
 
+*   Home Page
 
 ![Lighthouse_home](documentation/lighthouse_homeJPG.JPG)
 
+*   For Sale Page
 
 ![Lighthouse_for_sale](documentation/lighthouse_for_saleJPG.JPG)
 
+*   Contact Page
 
 ![Lighthouse_contact](documentation/lighthouse_contactJPG.JPG)
+
+*   Advert Page (Morgan)
 
 
 ![Lighthouse_morgan](documentation/lighthouse_morgan.JPG)
 
+## Accessibility
+I checked the accessability of the site using [wave](https://wave.webaim.org/)
 
+the only issue raiseed was where I used html and css to create a toggle and the hidden X was showing an error because of this.
+
+*   Home Page
+
+![Wave_home](documentation/wave_home.JPG)
+
+*   For Sale Page
+
+
+![Wave_for_sale](documentation/wave_for_sale.JPG)
+
+*   Sale Page
+
+
+![Wave_advert](documentation/wave_advert.JPG)
+
+
+*   Contact Page
+
+
+![Wave_contact](documentation/wave_contact.JPG)
 
 ## Bugs
 
