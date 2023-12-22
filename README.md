@@ -7,7 +7,7 @@ The target audience is anyone looking to have a horse schooled for competition o
 
 The goal of the site is to provide potential clients with an overview of the business and to provide easy-to-follow information about the business, the services it offers, current stock available for sale and its location. 
 
-Link to live site: [Lackyle Sporthorses](https://amandab2023.github.io/P1_Lackyle_Sporthorses/contact.html)
+Link to live site: [Lackyle Sporthorses](https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html)
 
 ## Contents
 *   User Experience
@@ -253,7 +253,7 @@ As Lackyle Stables already have their own colors, I worked these into the websit
 
 ### Typography
 
-Merriweather was used for all the h1 elements while Montserrat was used the other heading elements and the body text, with a back up of San Serif. These are two fonts I would be familiar with and felt they paired well together, as the website looked professional yet modern.
+Merriweather was used for all the h1 elements while Montserrat was used for the other heading elements and the body text, with a back up of San Serif. These are two fonts I would be familiar with and felt they paired well together, as the website looked professional yet modern.
 
 *   Merriweather
 
@@ -291,7 +291,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 *   From the source section drop-down menu, select the Main Branch, then click "Save".
 *   The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here: ![Link](https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html)
+The live link can be found here: [Github](https://amandab2023.github.io/P1_Lackyle_Sporthorses/index.html)
 
 #### Local Deployment
 In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository.
@@ -324,14 +324,14 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 ## Credits
 
 #### Content
-*   I got the colors for the social media icons from ![Link](https://usbrandcolors.com/instagram-colors/)
+*   I got the colors for the social media icons from [Us Brand Colors](https://usbrandcolors.com/instagram-colors/)
 *   Fonts were imported from Google Fonts.
 *   Icons were imported from Font Awesome.
 *   The Code Institute Love Running project for the basic website structure and toggle menu.
 
 #### Media
 
-*   Hero image on homepage was taken from Pexels [Pexels](https://www.pexels.com)
+*   Hero image on homepage was taken from [Pexels](https://www.pexels.com)
 *   The logo I created myself using Canva.
 *   All other images and videos on the website are my own.
 
