@@ -279,7 +279,7 @@ The wireframes for the website were designed using Balsamiq. The designs vary fr
 
 ## Testing
 
-Please refer to the TESTING.md file for all test-related documentation.
+Please refer to the ![Link](TESTING.md) file for all test-related documentation.
 
 
 ## Deployment
